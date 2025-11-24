@@ -1,6 +1,6 @@
 # 🙋🏻 Matheus  Coutinho
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Matheus Fernandes, tenho 21 anos e sou natural de Manaus, Amazonas.
 
