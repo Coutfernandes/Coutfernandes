@@ -10,13 +10,13 @@ Estou em constante evolução, sempre em busca de aprimorar minhas habilidades e
 
 <p align="left">
 
-    </a>
- <a href="https://github.com/Coutfernandes?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Coutfernandes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+    <a href="https://github.com/Coutfernandes?tab=followers">
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/followers/Coutfernandes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+</a>
     </a>
     <a href="https://www.linkedin.com/in/matheus-fernandes-coutinho-27512a328/" target="_blank">
     <img 
@@ -120,10 +120,10 @@ Estou em constante evolução, sempre em busca de aprimorar minhas habilidades e
     src="https://github-readme-stats.vercel.app/api?username=Coutfernandes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coutfernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="GitHub Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coutfernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&count_private=true" 
+/>
 
 </p>
