@@ -114,7 +114,7 @@ Estou em constante evolução, sempre em busca de aprimorar minhas habilidades e
 
   
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Coutfernandes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/Coutfeernandes)
-<p>
+
 <img 
     align="left" 
     alt="GitHub Top Languages" 
@@ -122,4 +122,3 @@ Estou em constante evolução, sempre em busca de aprimorar minhas habilidades e
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coutfernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&count_private=true" 
 />
 
-</p>
