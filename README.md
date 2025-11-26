@@ -6,7 +6,7 @@ Me chamo Matheus Fernandes, tenho 21 anos e sou natural de Manaus, Amazonas.
 
 Atuo na área de desenvolvimento web desde 2025, com conhecimentos em **Python**, **HTML**, **CSS**, **JavaScript** e **WordPress**.
 
-Estou em constante evolução, sempre em busca de aprimorar minhas habilidades em desenvolvimento front-end, criar interfaces intuitivas e contribuir com experiências digitais de impacto.  tecnologia e compartilho meu conhecimento através do meu o Instagram, com o perfil chamado "[Coutsz_](https://www.instagram.com/Coutsz_/)".
+Estou em constante evolução, sempre em busca de aprimorar minhas habilidades em desenvolvimento front-end, criar interfaces intuitivas e contribuir com experiências digitais de impacto e  compartilho meu conhecimento através do meu o Instagram, com o perfil chamado "[Coutsz_](https://www.instagram.com/Coutsz_/)".
 
 <p align="left">
 
