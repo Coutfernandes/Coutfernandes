@@ -29,7 +29,7 @@ Estou em constante evolução, sempre em busca de aprimorar minhas habilidades e
 
 ---
 
-### Linguagens e Tecnologias
+### Linguagens Tecnologias
 
 <img 
     align="left" 
