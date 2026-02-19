@@ -134,9 +134,7 @@ No Back-end, tenho domínio do ecossistema **Python/Django**, além de experiên
 
 ## 🐍 Contribuições
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Coutfernandes/Coutfernandes/output/github-snake-dark.svg" alt="Snake Animation" />
-</div>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 ---
 
