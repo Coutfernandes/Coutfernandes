@@ -112,9 +112,8 @@ Sistema completo de gestão de eventos desenvolvido com **Python 3.12 + Django**
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Coutfernandes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Coutfernandes&theme=github_dark" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coutfernandes&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" />
 
 </div>
 
