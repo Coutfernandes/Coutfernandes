@@ -106,20 +106,7 @@ Sistema completo de gestão de eventos desenvolvido com **Python 3.12 + Django**
 **Grupo KNC** — Estágio Desenvolvedor Web *(abr/2025 – mai/2025)*
 > WordPress, Elementor, phpMyAdmin, cPanel, identidade visual
 
----
-
-## Estatísticas
-
-<div align="center">
-
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Coutfernandes&theme=github_dark" />
-&nbsp;
-
-</div>
-
----
-
-<div align="center">
+<div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=80&section=footer" />
 
