@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=160&section=header&text=Matheus%20Coutinho&fontSize=40&fontColor=e6edf3&fontAlignY=45&desc=Back-End%20Developer&descAlignY=65&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=160&section=header&text=Matheus%20Coutinho&fontSize=40&fontColor=e6edf3&fontAlignY=45&desc=full-stack%20Developer&descAlignY=65&descColor=8b949e" />
 
 </div>
 
