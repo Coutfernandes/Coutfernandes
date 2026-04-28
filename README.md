@@ -29,7 +29,7 @@ developer = {
     "nome":        "Matheus Coutinho",
     "formacao":    "Análise e Desenvolvimento de Sistemas (cursando)",
     "localizacao": "Manaus, Amazonas — BR",
-    "foco":        ["Back-End", "APIs REST", "Front-end", "Integração com IA"],
+    "foco":        ["fullstack", "APIs REST", "Front-end", "Integração com IA"],
     "stack":       ["Python", "Django", "Node.js", "PostgreSQL"],
     "estudando":   ["Clean Architecture", "Docker", "SQL"],
 }
