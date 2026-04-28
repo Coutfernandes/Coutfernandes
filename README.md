@@ -67,7 +67,6 @@ Também experiente com **Node.js**, **automações N8N** e orquestração de wor
 
 **Banco de Dados**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Ferramentas & Automação**
