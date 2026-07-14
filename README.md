@@ -96,14 +96,8 @@ Sistema completo de gestão de eventos desenvolvido com **Python 3.12 + Django**
 ---
 
 ## Experiência
-**Contato Services** — Estágio Desenvolvimento Back end *(fev/2026 – mar/2026)*
-> Python, Nodejs, React, N8n  — manipulação avançada de dados e automação de processos críticos.
-
 **Diretório Digital** — Estágio Web Design *(out/2025 – fev/2026)*
 > WordPress, HTML5/CSS3/JS — sites para prefeituras, câmaras municipais e autarquias públicas
-
-**Grupo KNC** — Estágio Desenvolvedor Web *(abr/2025 – mai/2025)*
-> WordPress, Elementor, phpMyAdmin, cPanel, identidade visual
 
 <div>
 
