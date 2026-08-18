@@ -84,15 +84,6 @@ Também experiente com **Node.js**, **automações N8N** e orquestração de wor
 
 Sistema completo de gestão de eventos desenvolvido com **Python 3.12 + Django**, arquitetura modular focada em segurança, escalabilidade e manutenibilidade.
 
-| Funcionalidade | Detalhes |
-|---|---|
-| Pagamentos | Integração Mercado Pago (Checkout Pro) + webhooks automáticos |
-| Autenticação | Login, controle de permissões e acesso seguro |
-| Gestão | Eventos, inscrições, ingressos e galerias |
-| Banco de dados | PostgreSQL em ambiente cloud |
-| Serviços | Envio de e-mails + armazenamento externo de imagens |
-| Front-End | Interface responsiva com HTML5, CSS3 e JavaScript |
-
 ---
 
 ## Experiência
