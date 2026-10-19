@@ -27,7 +27,7 @@
 ```python
 developer = {
     "nome":        "Matheus Coutinho",
-    "formacao":    "Análise e Desenvolvimento de Sistemas (cursando)",
+    "formacao":    "Análise e Desenvolvimento de Sistemas",
     "localizacao": "Manaus, Amazonas — BR",
     "foco":        ["fullstack", "APIs REST", "Front-end", "Integração com IA"],
     "stack":       ["Python", "Django", "Node.js", "PostgreSQL"],
@@ -43,7 +43,7 @@ Graduando em Análise e Desenvolvimento de Sistemas com trajetória sólida em d
 
 Focado no ecossistema **Python/Django**, com experiência em construção de APIs REST, integração com gateways de pagamento, gerenciamento de bancos de dados relacionais e arquiteturas escaláveis e de fácil manutenção.
 
-Também experiente com **Node.js**, **automações N8N** e orquestração de workflows com IA — desenvolvendo soluções que conectam sistemas e reduzem trabalho manual.
+Também experiente com **Ptyhon Django React Node.js** e orquestração de workflows com IA — desenvolvendo soluções que conectam sistemas e reduzem trabalho manual.
 
 ---
 
